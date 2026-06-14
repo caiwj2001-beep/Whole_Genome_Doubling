@@ -2,7 +2,7 @@
 
 Analysis code for the pan-cancer WGD study using the MSK-IMPACT 50K clinical sequencing cohort (53,654 tumors, 66 cancer types).
 
-**Target Journal:** *Cancer Cell* (Research Article)
+
 
 ## Repository Contents
 
@@ -19,12 +19,6 @@ MSK-IMPACT 50K Clinical Sequencing Cohort (Bandlamudi et al., *Cancer Cell* 2026
 - cBioPortal: https://www.cbioportal.org/study/summary?id=msk_impact_50k_2026
 - PMID: 41895280
 
-## Key Findings
-
-- WGD detected in **30.0%** of 53,654 tumors (range 10.5% glioma to 67.7% germ cell)
-- TP53 is the strongest WGD-associated driver (OR 3.01, 64.2% WGD+ vs 37.3% WGD−)
-- WGD independently predicts worse survival: adjusted HR 1.20 (P = 7.5×10⁻¹⁵)
-- Cancer-type-specific effects: endometrial HR 2.68, prostate HR 2.52, breast HR 2.33
 
 ## Author
 
